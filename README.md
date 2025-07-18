@@ -1,2 +1,6 @@
 # Fire-Incident-Dashboard
-The repository contains BI files and a demo of the New York Fire Incident Dashboard built using Power BI
+
+## Demo
+
+https://github.com/user-attachments/assets/6d65d9d9-7d4e-4516-99c5-8a08b6a3e8e3
+
